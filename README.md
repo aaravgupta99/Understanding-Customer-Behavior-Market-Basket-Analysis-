@@ -17,7 +17,7 @@ I performed the Apriori algorithm on the grocery transactions made in France. Th
 ## Result
 The Apriori algorithm provided us with frequent itemsets and association rules based on the transactions in France. These results are essential in understanding which items are frequently bought together, enabling us to make informed decisions regarding product placement, marketing strategies, and cross-selling opportunities.
 ## Saving The Rules
-In the final step, I saved the association rules observed in the French outlet in an Excel file for future reference and analysis.
+In the final step, I saved the association rules observed in the French outlet in an Excel file, called Association Rules France, for future reference and analysis.
 ## Future Enhancements
 There are several ways to enhance this project in the future:
 
